@@ -2,7 +2,6 @@
 
 Use following users:
 
-------------------------------------
 username | password     | role
 ---------|--------------|-----------
 nmquyet  | random_token | ROLE_USER
@@ -32,3 +31,4 @@ curl -X "GET" "http://localhost:8081/secured/user" \
 curl -X "GET" "http://localhost:8081/secured/admin" \
     -H "Authorization: Bearer <access_token>"
 ```
+
