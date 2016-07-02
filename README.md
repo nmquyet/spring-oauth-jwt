@@ -4,7 +4,7 @@ Use following users:
 
 ------------------------------------
 username | password     | role
-------------------------------------
+---------|--------------|-----------
 nmquyet  | random_token | ROLE_USER
 longnc   | random_token | ROLE_ADMIN
 
